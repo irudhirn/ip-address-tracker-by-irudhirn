@@ -1,0 +1,15 @@
+{
+  "name": "ip-address-tracker",
+  "version": "1.0.0",
+  "description": "![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "irudhirn",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  }
+}
